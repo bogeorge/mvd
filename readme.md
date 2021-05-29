@@ -21,7 +21,7 @@ This is a Multi-Value Dictionary command line application that stores and manage
 * You can run and test the app using:
     ```bash
     npm run-script start
-    ```:
+    ```
 * You can execute the jest test defined for the dictionaryManager using
     ```bash
     npm run-script test
